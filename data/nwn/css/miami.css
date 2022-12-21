@@ -81,7 +81,7 @@ a:hover {
   width: 20%;
 }
 .sexo:hover{
-  cursor: pointer;
+  /*   cursor: pointer; */
 }
 
 .sidebar{
@@ -164,7 +164,7 @@ a:hover {
   line-height: 50px;
   color: #fff;
   font-size: 20px;
-  cursor: pointer;
+  /*   cursor: pointer; */
   transition: all 0.3s ease;
 }
 .sidebar .nav-links li.showMenu i.arrow{
@@ -317,7 +317,7 @@ a:hover {
   font-size: 35px;
 }
 .home-section .home-content .bx-menu{
-  cursor: pointer;
+  /*   cursor: pointer; */
   margin-right: 10px;
 }
 .home-section .home-content .text{
@@ -370,13 +370,13 @@ a:hover {
 
 .cardmiami:hover {
  transform: translateY(-5px);
- cursor: pointer;
+ /*   cursor: pointer; */
  }
  
 a {
  color: #2696db;
  text-decoration: none;
- cursor: pointer;
+ /*   cursor: pointer; */
  }
 
 
@@ -384,7 +384,7 @@ a {
   width: inherit;
   height: 130px; /*120*/
   position: absolute;
-  cursor: pointer;
+  /*   cursor: pointer; */
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -416,7 +416,7 @@ a {
   height: 100px;
   background-size: cover;
   border: 5px solid #121212;
-  cursor: pointer;
+  /*   cursor: pointer; */
 }
 .icon__wrapper {
   z-index: 102;
@@ -457,7 +457,7 @@ a {
  top: 70px;
  border-radius: 50%;
  border: 6px solid #18191c;
- cursor: pointer;
+ /*   cursor: pointer; */
  pointer-events: none;
 }
 
@@ -488,7 +488,7 @@ a {
   pointer-events: all;
 }
 .miamiflex .badges .badge {
-  cursor: pointer;
+  /*   cursor: pointer; */
   margin: 0 2px 2px 0;
   max-width: 185px;
   pointer-events: all;
