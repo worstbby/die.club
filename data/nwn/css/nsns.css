@@ -1,9 +1,17 @@
-:root {
-  --background: url('https://cdn.discordapp.com/attachments/1048425723070791680/1049513590983495680/die.png');
-}
-
 body {
     margin-left: 0;
+}
+
+#nn {
+    position:  fixed; 
+    z-index:  -1;
+    background-attachment: fixed; 
+    background-size: cover; 
+    height: auto; 
+    left: 0; 
+    min-height: 100%; 
+    top: 0; 
+    width: 100%;
 }
 
 [class~=wallpaper] {
