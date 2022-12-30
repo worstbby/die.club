@@ -3,6 +3,8 @@ body {
 }
 
 #nn {
+    -webkit-filter: grayscale(100%); 
+    filter: grayscale(100%); 
     position:  fixed; 
     z-index:  -1;
     background-attachment: fixed; 
