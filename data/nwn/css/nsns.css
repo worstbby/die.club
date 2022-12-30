@@ -1,0 +1,165 @@
+body {
+    margin-left: 0;
+}
+
+#nn {
+    position:  fixed; 
+    z-index:  -1;
+    background-attachment: fixed; 
+    background-size: cover; 
+    height: auto; 
+    left: 0; 
+    min-height: 100%; 
+    top: 0; 
+    width: 100%;
+}
+
+[class~=wallpaper] {
+    background-image: linear-gradient(rgba(0, 0, 0, .6), rgba(0, 0, 0, .8)), url("");
+}
+
+[class~=wallpaper] {
+    background-size: cover;
+}
+
+body {
+    margin-bottom: 0;
+}
+
+body {
+    margin-right: 0;
+}
+
+body {
+    margin-top: 0;
+}
+
+body {
+    font-family: "VCR OSD Mono", sans-serif;
+}
+
+[class~=wallpaper] {
+    background-position: center;
+}
+
+h1 {
+    color: #fff;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h1 {
+    transform: scale(10, 20);
+}
+
+footer,
+[class~=content] {
+    position: fixed;
+}
+
+[class~=wallpaper] {
+    height: 100vh;
+}
+
+footer {
+    bottom: .3125in;
+}
+
+[class~=content] {
+    top: 50%;
+}
+
+[class~=content] {
+    left: 50%;
+}
+
+[class~=content] {
+    transform: translate(-50%, -50%);
+}
+
+footer {
+    width: 100%;
+}
+
+footer {
+    text-align: center;
+}
+
+footer,
+[class~=para],
+[class~=paragraph-2],
+a {
+    text-transform: uppercase;
+}
+
+footer {
+    line-height: 12.75pt;
+}
+
+footer {
+    line-height: 1.5;
+}
+
+footer,
+a,
+[class~=para],
+[class~=paragraph-2] {
+    font-weight: 400;
+}
+
+a:hover {
+    opacity: 1;
+}
+
+[class~=para],
+a {
+    line-height: 3.75pt;
+}
+
+a,
+[class~=para],
+footer,
+[class~=paragraph-2] {
+    font-style: normal;
+}
+
+footer {
+    font-size: 7.5pt;
+}
+
+footer,
+[class~=para],
+[class~=paragraph-2] {
+    color: rgba(255, 255, 255, 1);
+}
+
+[class~=para] {
+    font-size: .46875in;
+}
+
+[class~=paragraph-2] {
+    line-height: .177083333in;
+}
+
+[class~=paragraph-2] {
+    line-height: 1.5;
+}
+
+a,
+[class~=paragraph-2] {
+    font-size: 15px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a {
+    color: white;
+}
+
+a {
+    opacity: .8;
+}
